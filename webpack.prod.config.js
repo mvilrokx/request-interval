@@ -4,8 +4,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'request.js',
-    library: 'request',
+    filename: 'requestInterval.js',
+    library: 'requestInterval',
     libraryTarget: 'umd',
     umdNamedDefine: true,
   },
