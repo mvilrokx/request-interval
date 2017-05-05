@@ -1,6 +1,6 @@
 {
   "name": "request-interval",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Drop in replacement for setInterval that uses requestAnimationFrame instead of setInterval.",
   "main": "dist/requestInterval.js",
   "directories": {
