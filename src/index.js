@@ -1,3 +1,3 @@
-import requestInterval from './lib/requestInterval'
+import { requestInterval, clearRequestInterval } from './lib/requestInterval'
 
-module.exports = requestInterval
+export { requestInterval, clearRequestInterval }
